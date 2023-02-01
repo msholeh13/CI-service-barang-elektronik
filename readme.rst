@@ -1,3 +1,13 @@
+login sebagai 
+- admin
+		username : admin
+		password : admin
+-user
+		username : pegawai
+		password : pegawai
+		
+		
+
 ###################
 What is CodeIgniter
 ###################
