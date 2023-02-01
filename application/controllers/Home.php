@@ -30,4 +30,5 @@ class Home extends CI_Controller {
 		$data['judul'] = '404 | PAGE NOT FOUND';
 		$this->load->view('blocked', $data);
 	}
+	
 }
